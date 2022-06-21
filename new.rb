@@ -38,5 +38,6 @@ class Bike
   end
 end
 
+Bike.new.move("左",50)
 bike=Bike.new
 bike.move("右",3)

@@ -10,4 +10,4 @@ car=Car.new
 car.run(5)
 
 puts "そこの交差点で"
-car.turn("右")git 
+car.turn("右")
